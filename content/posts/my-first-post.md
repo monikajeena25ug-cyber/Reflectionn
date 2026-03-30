@@ -21,7 +21,7 @@ In this reflection blog, I described what we learned across our lab sessions and
 **Lab 2: Wiki Practice**
 
 In this lab session we applied the previous lab concepts in the project work. Here, we installed hugo and Git . Our task was to create a kind of learning resourse after reading the assigned chapters from the book The Information by James Glieck so we created a learning resource based on _The Information:A History, a Theory, a flood by James Glieck_. Each groups were assigned 1 or 2 chapters from this book and groups need to summarize these chapters in 150-200 words and create the resoruce on outline.
-The summary included what the chapter is about and what the author is saying basically our personal comments and observations that can be refered as reflections. So, on outline we also wrote our comments and observations regarding those chapters and addressed the important points in the chapters,new surprising thing we found and how our views on nature or history of information got affected by these chapters.
-Therefore, by publishing this learning resource on Outline how our ciontent can be accesible by others.
+The summary included what the chapter is about and what the author is saying, basically our personal comments and observations that can be referred as reflections. So, on outline we also wrote our comments and observations regarding those chapters and addressed the important points in the chapters,new surprising thing we found and how our views on nature or history of information got affected by these chapters.
+Therefore, by publishing this learning resource on Outline how our content can be accesible by others.
 
 
